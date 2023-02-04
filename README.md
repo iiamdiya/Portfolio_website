@@ -12,4 +12,4 @@ The animated text that I added to the website dynamically changes, showcasing my
 Overall, I am thrilled with how my portfolio website turned out and I can't wait to share it with the world. I hope it showcases my passion for web development and my creative spirit. Check it out and let me know what you think! 
 
 
-[1675363857198.pdf](https://github.com/iiamdiya/Portfolio_website/files/10592877/1675363857198.pdf)
+![image](https://user-images.githubusercontent.com/71397300/216733288-d7f5d853-9a0f-46f4-961a-a5df21cc147e.png)
